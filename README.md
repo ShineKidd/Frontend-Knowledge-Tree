@@ -10,6 +10,7 @@
 
 ### Web跨域
 *	[Web跨域问题及解决方案]()
+* [SSO]
 
 ### WebSocket
 *	[WebSocket wss连接握手失败问题分析]()
