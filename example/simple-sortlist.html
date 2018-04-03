@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>简单的列表排序例子</title>
+	<style type="text/css">
+		.listitem{
+			display: flex;
+			margin: 5px 0;
+
+		}
+		.content {
+			width: 200px;
+			m
+		}
+		button {
+			width: 100px;
+			margin: 0 10px;
+		}
+	</style>
+</head>
+<body>
+	<div id="app">
+		<div class="list">
+					<div class="listitem" v-for="item in list"><span class="content">{{item.content}}</span><button @click="goUp(item)">up</button><button @click="goDown(item)">down</button></div>
+		</div>	
+	</div>
+<script src="https://cdn.jsdelivr.net/npm/vue"></script>
+<script src="https://cdn.bootcss.com/underscore.js/1.8.3/underscore-min.js"></script>
+<script type="text/javascript">
+		var listdata = [
+			{sortIndex:0,content:'活期盈起息规则'},
+			{sortIndex:1,content:'7日年化收益技术'},
+			{sortIndex:2,content:'淡水泉起息规则'}
+		]
+		var app = new Vue({
+		  el: '#app',
+		  data: {
+		  	list:listdata
+		  },
+		  methods:{
+		  	goUp: function(item){
+		  		var len = this.list.length;
+		  		var currentIndex = item.sortIndex;
+		  		var newIndex = currentIndex - 1 < 0 ? len -1 : currentIndex -1;
+		  		this.list[currentIndex].sortIndex = newIndex
+		  		this.list[newIndex].sortIndex = currentIndex
+		  		this.list = _.sortBy(this.list,'sortIndex')
+		  	},
+		  	goDown: function(item){
+		  		var len = this.list.length;
+		  		var currentIndex = item.sortIndex;
+		  		var newIndex = currentIndex + 1 > len -1 ? 0 : currentIndex +1;
+		  		this.list[currentIndex].sortIndex = newIndex
+		  		this.list[newIndex].sortIndex = currentIndex
+		  		this.list = _.sortBy(this.list,'sortIndex')
+		  	}
+		  }
+		})
+</script>
+</body>
+</html>
