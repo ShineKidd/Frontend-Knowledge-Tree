@@ -22,7 +22,7 @@
 
 *	[WebPack工作原理]()
 
-## Chrome浏览器
+## Chrome
 
 *	[Chrome防止混合内容策略](https://developers.google.com/web/fundamentals/security/prevent-mixed-content/fixing-mixed-content?hl=zh-cn)
 
