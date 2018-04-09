@@ -14,7 +14,7 @@
 * [iframe跨域通用解决方案](http://www.alloyteam.com/2013/11/the-second-version-universal-solution-iframe-cross-domain-communication/)
 * [跨域读写Cookie]()
 * [SSO原理及实现方案]()
-* [CORS原理及设置]
+* [CORS原理及设置]()
 
 ## WebSocket
 *	[WebSocket wss连接握手失败问题分析]()
