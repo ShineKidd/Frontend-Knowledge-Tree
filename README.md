@@ -39,7 +39,7 @@
 ## 模块化
 * [CommonJS规范、AMD、ES6模块化思想及区别]()
 
-## ECMASCRIPT
+## ECMAScript
 *	[ES6模块机制静态分析]()
 
 ## Git
