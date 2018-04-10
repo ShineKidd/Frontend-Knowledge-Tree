@@ -16,9 +16,6 @@
 * [SSO原理及实现方案]()
 * [CORS原理及设置]()
 
-## WebSocket
-*	[WebSocket wss连接握手失败问题分析]()
-
 ## 构建工具
 
 *	[WebPack工作原理]()
@@ -40,6 +37,11 @@
 ## 模块化
 
 ## Git
+
+## HTTP
+
+## WebSocket
+*	[WebSocket wss连接握手失败问题分析]()
 
 ## 读书笔记
 
