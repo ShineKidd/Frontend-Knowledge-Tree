@@ -29,6 +29,7 @@
 * [微信内置浏览器cookie有效期问题分析]()
 
 ## 文件上传
+*	[HTML5图片压缩原理及限制]()
 
 ## 前端框架
 
@@ -36,15 +37,23 @@
 *	[前端路由原理及实现](https://juejin.im/post/5ac61da66fb9a028c71eae1b?utm_source=gold_browser_extension)
 
 ## 模块化
+* [CommonJS规范、AMD、ES6模块化思想及区别]()
+
+## ECMASCRIPT
+*	[ES6模块机制静态分析]()
 
 ## Git
 
 ## HTTP
 
 ## HTML5开发常见问题汇总
+*	[IOS]
 
 ## WebSocket
 *	[WebSocket wss连接握手失败问题分析]()
+
+## 算法
+*	[哈希算法]()
 
 ## 读书笔记
 
