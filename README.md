@@ -14,7 +14,8 @@
 * [iframe跨域通用解决方案](http://www.alloyteam.com/2013/11/the-second-version-universal-solution-iframe-cross-domain-communication/)
 * [跨域读写Cookie]()
 * [SSO原理及实现方案]()
-* [CORS原理及设置]()
+* [CORS原理了解及设置]()
+*	[CORS设置后POST请求变为OPTION请求问题分析])(https://itbilu.com/javascript/js/VkiXuUcC.html)
 
 ## 构建工具
 
@@ -51,6 +52,7 @@
 
 ## WebSocket
 *	[WebSocket wss连接握手失败问题分析]()
+*	[WebSocket 400状态码]()
 
 ## 算法
 *	[哈希算法]()
