@@ -52,7 +52,7 @@
 
 ## WebSocket
 *	[WebSocket wss连接握手失败问题分析]()
-*	[WebSocket 400状态码]()
+*	[WebSocket连接返回400状态码]()
 
 ## 算法
 *	[哈希算法]()
