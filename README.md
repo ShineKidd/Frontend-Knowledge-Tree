@@ -13,9 +13,9 @@
 *	[JS跨域方案]()
 * [iframe跨域通用解决方案](http://www.alloyteam.com/2013/11/the-second-version-universal-solution-iframe-cross-domain-communication/)
 * [跨域读写Cookie]()
-* [SSO原理及实现方案]()
+* [SSO原理及实现方案](https://cnodejs.org/topic/55f6e69904556da7553d20dd)
 * [CORS原理]()
-*	[CORS设置后POST请求变为OPTION请求问题分析])(https://itbilu.com/javascript/js/VkiXuUcC.html)
+*	[CORS设置后POST请求变为OPTION请求问题分析](https://itbilu.com/javascript/js/VkiXuUcC.html)
 
 ## 构建工具
 
