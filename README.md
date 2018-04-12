@@ -15,7 +15,7 @@
 *	[iframe发送POST请求]()
 * [跨域读写Cookie]()
 * [SSO原理及实现方案](https://cnodejs.org/topic/55f6e69904556da7553d20dd)
-* [CORS详解]()
+* [CORS工作原理]()
 *	[CORS设置后POST请求变为OPTION请求问题分析](https://itbilu.com/javascript/js/VkiXuUcC.html)
 * [跨域请求服务端写入Cookie无效问题分析]()
 
@@ -35,7 +35,7 @@
 *	[HTML5图片压缩方案]()
 
 ## 前端框架
-* [Vue源码]()
+* [Vue源码阅读]()
 
 ## 前端路由
 *	[前端路由原理及实现](https://juejin.im/post/5ac61da66fb9a028c71eae1b?utm_source=gold_browser_extension)
