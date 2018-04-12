@@ -17,7 +17,7 @@
 * [SSO原理及实现方案](https://cnodejs.org/topic/55f6e69904556da7553d20dd)
 * [CORS工作原理]()
 *	[CORS设置后POST请求变为OPTION请求问题分析](https://itbilu.com/javascript/js/VkiXuUcC.html)
-* [跨域请求服务端写入Cookie无效问题分析]()
+* [跨域请求服务端写入Cookie无效问题分析](https://blog.csdn.net/a317560315/article/details/78397369)
 
 ## 构建工具
 
