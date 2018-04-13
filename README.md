@@ -18,6 +18,11 @@
 * [CORS工作原理]()
 *	[CORS设置后POST请求变为OPTION请求问题](https://itbilu.com/javascript/js/VkiXuUcC.html)
 * [跨域请求服务端写入Cookie无效问题](https://blog.csdn.net/a317560315/article/details/78397369)
+* [ajax跨域几种方案]()
+
+## 性能优化
+* [JS内存泄漏]()
+* [JS垃圾回收机制]()
 
 ## 构建工具
 
