@@ -2,9 +2,12 @@
 > 前端基础知识技能树
 > 收集和记录遇到过的一些前端知识、问题及解决方案
 
+## JS基础
+* [继承与原型链]()
+
 ## 存储
 
-*	[Cookie详解](https://zhuanlan.zhihu.com/p/25793137)
+*	[Cookie介绍](https://zhuanlan.zhihu.com/p/25793137)
 
 ## 安全
 * [XSS攻击与防御]()
