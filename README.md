@@ -33,7 +33,8 @@
 * [微信预览图片接口在安卓无法预览base64格式图片问题分析](https://developers.weixin.qq.com/blogdetail?action=get_post_info&lang=zh_CN&token=1464760691&docid=1f8707fadc4930bb4d36d33b8cc863c2&comment_lvl=2)
 
 ## 文件上传
-*	[HTML5图片压缩方案]()
+*	[图片压缩方案]()
+* [图片上传方案]()
 * [获取图片大小]()
 
 ## 前端框架
