@@ -7,7 +7,7 @@
 *	[Cookie详解](https://zhuanlan.zhihu.com/p/25793137)
 
 ## 安全
-* [XSS攻击]()
+* [XSS攻击与防御]()
 
 ## 跨域
 *	[JS跨域方案]()
@@ -21,7 +21,7 @@
 
 ## 构建工具
 
-*	[WebPack工作原理]()
+*	[WebPack工作原理](http://www.cnblogs.com/GeniusLyzh/p/8823749.html)
 
 ## Chrome
 
