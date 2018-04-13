@@ -30,7 +30,7 @@
 ## 微信
 
 * [微信内置浏览器cookie有效期问题分析]()
-* [微信预览图片接口在安卓无法预览base64格式图片问题分析](https://developers.weixin.qq.com/blogdetail?action=get_post_info&lang=zh_CN&token=1464760691&docid=1f8707fadc4930bb4d36d33b8cc863c2&comment_lvl=2)
+* [微信预览图片接口安卓下无法预览base64格式图片](https://developers.weixin.qq.com/blogdetail?action=get_post_info&lang=zh_CN&token=1464760691&docid=1f8707fadc4930bb4d36d33b8cc863c2&comment_lvl=2)
 
 ## 文件上传
 *	[图片压缩方案]()
@@ -57,8 +57,8 @@
 *	[IOS系统微信WebView下弹出键盘遮挡输入框问题]()
 
 ## WebSocket
-*	[WebSocket wss连接握手失败问题分析]()
-*	[一个字符导致WebSocket连接报400状态码问题分析]()
+*	[WebSocket wss连接握手失败]()
+*	[WebSocket连接报400状态码]()
 
 ## 算法
 *	[哈希算法]()
