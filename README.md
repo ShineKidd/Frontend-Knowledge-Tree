@@ -39,7 +39,7 @@
 
 ## 前端框架
 * [Vue源码阅读]()
-* [Vue遍历组件渲染数据，数组更新后无法触发组件更新问题]()	
+* [Vue遍历组件渲染数据，数组改变后无法触发组件更新问题]()	
 
 ## 前端路由
 *	[前端路由原理及实现](https://juejin.im/post/5ac61da66fb9a028c71eae1b?utm_source=gold_browser_extension)
@@ -61,7 +61,7 @@
 *	[WebSocket初始化wss连接握手失败]()
 *	[WebSocket初始化连接报400状态码]()
 
-## 算法
+## 算法基础
 *	[哈希算法]()
 
 ## 读书笔记
