@@ -39,6 +39,7 @@
 
 ## 前端框架
 * [Vue源码阅读]()
+* [Vue遍历组件渲染数据，数组更新后无法触发组件更新问题]()	
 
 ## 前端路由
 *	[前端路由原理及实现](https://juejin.im/post/5ac61da66fb9a028c71eae1b?utm_source=gold_browser_extension)
@@ -57,8 +58,8 @@
 *	[IOS系统微信WebView下弹出键盘遮挡输入框问题]()
 
 ## WebSocket
-*	[WebSocket wss连接握手失败]()
-*	[WebSocket连接报400状态码]()
+*	[WebSocket初始化wss连接握手失败]()
+*	[WebSocket初始化连接报400状态码]()
 
 ## 算法
 *	[哈希算法]()
