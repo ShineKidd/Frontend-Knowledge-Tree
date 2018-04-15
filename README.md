@@ -3,7 +3,7 @@
 > 收集和记录遇到过的一些前端知识、问题及解决方案
 
 ## JS基础
-* [继承与原型链]()
+* [继承与原型链](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
 * [并发模型与事件循环](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/EventLoop)
 
 ## CSS基础
