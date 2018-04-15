@@ -17,7 +17,7 @@
 ## 安全
 * [XSS攻击与防御]()
 * [CSRF攻击与防御]()
-* [页面劫持防御]()
+* [HTTP劫持和DNS劫持](https://www.cnblogs.com/kenkofox/p/4919668.html)
 
 ## 跨域
 *	[JS跨域方案]()
