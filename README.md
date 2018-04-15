@@ -1,6 +1,6 @@
 # Frontend-Knowledge-Tree
 > 前端基础知识技能树
-> 收集和记录遇到过的一些前端知识、问题及解决方案
+> 收集和总结遇到过的一些前端知识、问题及解决方案
 
 ## JS基础
 * [继承与原型链](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
