@@ -5,6 +5,7 @@
 ## JS基础
 * [继承与原型链](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
 * [并发模型与事件循环](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/EventLoop)
+* [闭包]()
 
 ## CSS基础
 
