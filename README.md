@@ -88,4 +88,5 @@
 ## 实例
 
 * [简单的列表排序例子](./example/simple-sortlist.html)
+* [仿微信图片预览插件](./example/vue-img-preview.html)
 
