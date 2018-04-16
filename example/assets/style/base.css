@@ -1,0 +1,128 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    -webkit-appearance: none;
+    outline: none;
+    word-break: break-all;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+html,
+body{
+    width: 100%;
+    height: 100%;
+    overflow-y:auto;
+    -webkit-overflow-scrolling: touch;
+}
+input[type="text"],
+input[type="email"],
+input[type="url"],
+input[type="number"],
+input[type="password"],
+input[type="date"],
+input[type="search"],
+textarea{
+    background: #fff;
+    -webkit-user-select: text;
+}
+input,
+select,
+textarea{
+    display: block;
+    width: 100%;
+    border: none;
+    -webkit-user-select: initial;
+    font-family: "SourceHanSansCN Regular",Microsoft YaHei,Arial;
+}
+a{
+    text-decoration: none;
+    color: #999;
+}
+ul,ol,li{
+    list-style: none;
+}
+img{
+    border: 0;
+}
+.fwn{
+    font-weight: normal !important;
+}
+input,img{
+    vertical-align: middle;
+}
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+.clear{
+    zoom:1;
+}
+.clear:after{
+    content: '.';
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+body{
+    font-family: "SourceHanSansCN Regular",Microsoft YaHei,Arial;
+    color: #999;
+    background-color: #f2f2f2;
+    -webkit-text-size-adjust: none;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+}
+h1,h2,h3,h4,h5{
+    font-weight: normal;
+}
+select{
+    background: none;
+}
+input[type="date"]{
+    line-height: .6rem;
+}
+input[type="date"]:before{
+    content: attr(placeholder);
+    color: #ccc;
+}
+input[type="search"]::-webkit-search-cancel-button {
+  -webkit-appearance: none;
+}
+::-webkit-input-placeholder{
+    color: #ccc;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button{
+    -webkit-appearance: none !important;
+    margin: 0;
+}
+
+/* 1px解决方案 */
+@media screen and (-webkit-min-device-pixel-ratio:2){
+    .bor-t1:before,
+    .bor-b1:after,
+    .bor-b1-gray:after,
+    .bor-t1px:before,
+    .bor-t1-brown:before,
+    .bor-t1-l30:before{
+        height: 2px;
+        width: 200%;
+        -webkit-transform: scale(.5);
+        transform: scale(.5);
+    }
+}
+@media screen and (-webkit-min-device-pixel-ratio:3){
+    .bor-t1:before,
+    .bor-b1:after,
+    .bor-b1-gray:after,
+    .bor-t1px:before,
+    .bor-t1-brown:before,
+    .bor-t1-l30:before{
+        height:3px;
+        width:300%;
+        -webkit-transform:scale(.3333);
+        transform:scale(.3333);
+    }
+}
