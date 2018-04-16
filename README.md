@@ -58,7 +58,7 @@
 ## Vue
 * [Vue生命周期理解]()
 * [Vue遍历组件渲染数据，数组改变后无法触发组件更新问题]()	
-* [Vue图片预览组件]()
+* [Vue图片预览插件]()
 
 ## 前端路由
 *	[前端路由原理及实现](https://juejin.im/post/5ac61da66fb9a028c71eae1b?utm_source=gold_browser_extension)
