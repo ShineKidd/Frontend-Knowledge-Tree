@@ -4,8 +4,8 @@
 
 ## JS基础
 * [继承与原型链](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
-* [并发模型与事件循环](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/EventLoop)
-* [闭包]()
+* [事件循环](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/EventLoop)
+* [理解闭包]()
 
 ## CSS基础
 
@@ -40,7 +40,7 @@
 
 ## 构建工具
 
-*	[WebPack工作原理](http://www.cnblogs.com/GeniusLyzh/p/8823749.html)
+*	[Webpack工作原理小结](http://www.cnblogs.com/GeniusLyzh/p/8823749.html)
 
 ## Chrome
 
