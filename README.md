@@ -45,6 +45,7 @@
 ## 构建工具
 
 *	[Webpack工作原理小结](http://www.cnblogs.com/GeniusLyzh/p/8823749.html)
+* [Webpack引入第三方JS编译报错问题]()
 
 ## Chrome
 
