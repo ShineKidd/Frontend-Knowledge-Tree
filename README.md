@@ -69,7 +69,7 @@
 *	[前端路由原理及实现](https://juejin.im/post/5ac61da66fb9a028c71eae1b?utm_source=gold_browser_extension)
 
 ## 模块化
-* [CommonJS规范、AMD、ES6模块化]()
+* [CommonJS、AMD、ES6模块化]()
 * [UMD]()
 
 ## ES
