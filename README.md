@@ -63,7 +63,7 @@
 ## Vue
 * [Vue生命周期理解]()
 * [Vue遍历组件渲染数据，数组改变后无法触发组件更新问题]()	
-* [组件内添加局部样式data-v-xx无法匹配问题]()
+* [Vue设置私有样式scoped工作原理](https://vue-loader.vuejs.org/zh-cn/features/scoped-css.html)
 
 ## 前端路由
 *	[前端路由原理及实现](https://juejin.im/post/5ac61da66fb9a028c71eae1b?utm_source=gold_browser_extension)
