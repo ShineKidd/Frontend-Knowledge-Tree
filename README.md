@@ -38,7 +38,6 @@
 * [JS内存泄漏]()
 * [JS垃圾回收机制]()
 * [页面重绘（Repaint）和重排（Reflow）]()
-* [函数节流]()
 * [域名收敛与域名发散](http://taobaofed.org/blog/2015/12/16/h5-performance-optimization-and-domain-convergence/)
 
 ## 构建工具
@@ -63,7 +62,7 @@
 ## Vue
 * [Vue生命周期理解]()
 * [Vue遍历组件渲染数据，数组改变后无法触发组件更新问题]()	
-* [Vue设置私有样式scoped工作原理](https://vue-loader.vuejs.org/zh-cn/features/scoped-css.html)
+* [Vue私有样式scoped属性工作原理]()
 
 ## 前端路由
 *	[前端路由原理及实现](https://juejin.im/post/5ac61da66fb9a028c71eae1b?utm_source=gold_browser_extension)
