@@ -6,6 +6,7 @@
 * [继承与原型链](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
 * [事件循环](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/EventLoop)
 * [理解闭包]()
+* [理解事件委托]()
 
 ## CSS基础
 
