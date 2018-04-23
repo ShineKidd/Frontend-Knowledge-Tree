@@ -5,8 +5,8 @@
 ## JS基础
 * [继承与原型链](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
 * [理解事件循环](http://www.ruanyifeng.com/blog/2014/10/event-loop.html)
-* [理解闭包]()
-* [理解事件委托]()
+* [理解闭包](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Closures)
+* [理解事件委托](https://zhuanlan.zhihu.com/p/26536815)
 * [函数柯里化]()
 * [函数式编程]()
 * [面向切面编程]()
