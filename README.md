@@ -43,6 +43,7 @@
 * [JS垃圾回收机制]()
 * [页面重绘（Repaint）和重排（Reflow）]()
 * [域名收敛与域名发散](http://taobaofed.org/blog/2015/12/16/h5-performance-optimization-and-domain-convergence/)
+* [浏览器缓存机制]()
 
 ## 构建工具
 
