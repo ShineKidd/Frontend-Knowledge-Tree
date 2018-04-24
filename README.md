@@ -61,8 +61,9 @@
 * [获取图片原始大小]()
 
 ## Vue
-* [Vue生命周期理解]()
+* [Vue实例生命周期](https://cn.vuejs.org/v2/guide/instance.html)
 * [Vue私有样式scoped属性工作原理]()
+* [Vue双向绑定实现原理](https://segmentfault.com/a/1190000006599500)
 
 ## 前端路由
 *	[前端路由原理及实现](https://juejin.im/post/5ac61da66fb9a028c71eae1b?utm_source=gold_browser_extension)
