@@ -75,6 +75,7 @@
 
 ## HTTP
 * [URL格式规范]()
+* [GET和POST请求区别]()
 
 ## WebSocket
 *	[WebSocket初始化wss连接握手失败问题分析]()
