@@ -26,6 +26,7 @@
 ## 安全
 * [XSS攻击与防御]()
 * [CSRF攻击与防御]()
+* [HTTP劫持原理](https://blog.csdn.net/wr410/article/details/25594273)
 * [HTTP劫持和DNS劫持](https://www.cnblogs.com/kenkofox/p/4919668.html)
 
 ## 跨域
