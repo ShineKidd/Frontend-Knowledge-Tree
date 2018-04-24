@@ -34,7 +34,7 @@
 * [CORS跨域服务端无法写入浏览器Cookie问题](https://blog.csdn.net/a317560315/article/details/78397369)
 * [ajax跨域方案]()
 * [JSONP跨域原理与实现]()
-* [iframe跨域方案](http://www.alloyteam.com/2013/11/the-second-version-universal-solution-iframe-cross-domain-communication/)
+* [iframe跨域方案](https://segmentfault.com/a/1190000000702539)
 * [iframe跨域POST请求无刷新提交](http://www.cnblogs.com/onepixel/articles/7568856.html)
 * [JS跨域方案优缺点及应用场景](https://www.zhihu.com/question/41992168)
 
