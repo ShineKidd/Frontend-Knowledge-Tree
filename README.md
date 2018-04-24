@@ -10,6 +10,7 @@
 * [函数柯里化](https://www.cnblogs.com/pigtail/p/3447660.html)
 * [函数式编程]()
 * [面向切面编程]()
+* [JS执行环境及作用域]()
 
 ## CSS基础
 
