@@ -40,7 +40,7 @@
 * [JS跨域方案优缺点及应用场景](https://www.zhihu.com/question/41992168)
 
 ## 性能优化
-* [JS内存泄漏](http://www.ruanyifeng.com/blog/2017/04/memory-leak.html)
+* [JS内存泄漏](https://jinlong.github.io/2016/05/01/4-Types-of-Memory-Leaks-in-JavaScript-and-How-to-Get-Rid-Of-Them/)
 * [JS垃圾回收机制]()
 * [页面重绘（Repaint）和重排（Reflow）]()
 * [域名收敛与域名发散](http://taobaofed.org/blog/2015/12/16/h5-performance-optimization-and-domain-convergence/)
