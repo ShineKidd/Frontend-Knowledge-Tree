@@ -28,15 +28,15 @@
 * [HTTP劫持和DNS劫持](https://www.cnblogs.com/kenkofox/p/4919668.html)
 
 ## 跨域
-*	[JS跨域方案]()
-* [iframe跨域方案](http://www.alloyteam.com/2013/11/the-second-version-universal-solution-iframe-cross-domain-communication/)
-*	[iframe发送POST请求]()
 * [SSO原理及实现方案](https://cnodejs.org/topic/55f6e69904556da7553d20dd)
-* [CORS工作原理]()
+* [CORS工作原理与实现]()
 *	[CORS设置后POST请求变为OPTION请求问题](https://itbilu.com/javascript/js/VkiXuUcC.html)
 * [跨域请求服务端写入Cookie无效问题](https://blog.csdn.net/a317560315/article/details/78397369)
 * [ajax跨域实现方案]()
-* [ajax跨域与JSONP方案优缺点]()
+* [JSONP跨域原理与实现]()
+* [iframe跨域原理与实现](http://www.alloyteam.com/2013/11/
+the-second-version-universal-solution-iframe-cross-domain-communication/)
+* [JS跨域方案优缺点]()
 
 ## 性能优化
 * [JS内存泄漏]()
