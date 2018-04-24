@@ -24,8 +24,8 @@
 *	[Cookie介绍](https://zhuanlan.zhihu.com/p/25793137)
 
 ## 安全
-* [XSS攻击与防御]()
-* [CSRF攻击与防御]()
+* [XSS攻击与防御](https://juejin.im/entry/58a598dc570c35006b5cd6b4)
+* [CSRF攻击与防御](https://www.cnblogs.com/hyddd/archive/2009/04/09/1432744.html)
 * [HTTP劫持原理](https://blog.csdn.net/wr410/article/details/25594273)
 * [HTTP劫持和DNS劫持](https://www.cnblogs.com/kenkofox/p/4919668.html)
 
