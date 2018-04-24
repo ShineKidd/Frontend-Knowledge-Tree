@@ -35,7 +35,7 @@
 * [ajax跨域实现方案]()
 * [JSONP跨域原理与实现]()
 * [iframe跨域原理与实现](http://www.alloyteam.com/2013/11/the-second-version-universal-solution-iframe-cross-domain-communication/)
-* [JS跨域方案优缺点](https://www.zhihu.com/question/41992168)
+* [JS跨域方案优缺点及应用场景](https://www.zhihu.com/question/41992168)
 
 ## 性能优化
 * [JS内存泄漏]()
