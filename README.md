@@ -78,6 +78,7 @@
 ## HTTP
 * [URL格式规范]()
 * [GET和POST请求区别]()
+* [HTTP2.0对于HTTP1.x的优点]()
 
 ## WebSocket
 *	[WebSocket初始化wss连接握手失败问题分析]()
