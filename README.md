@@ -19,10 +19,6 @@
 
 ## 设计模式
 
-## 客户端存储
-
-*	[Cookie介绍](https://zhuanlan.zhihu.com/p/25793137)
-
 ## 安全
 * [XSS攻击与防御](https://juejin.im/entry/58a598dc570c35006b5cd6b4)
 * [CSRF攻击与防御](https://www.cnblogs.com/hyddd/archive/2009/04/09/1432744.html)
@@ -77,6 +73,7 @@
 ## Git
 
 ## HTTP
+* [cookies详解](https://www.kancloud.cn/kancloud/http-cookies-explained/48333)
 * [URL格式规范]()
 * [GET和POST请求区别]()
 * [HTTP2.0对于HTTP1.x的优点](https://www.zhihu.com/question/34074946)
