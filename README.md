@@ -34,11 +34,10 @@
 * [CORS工作原理与实现]()
 *	[CORS设置后POST请求变为OPTION请求问题](https://itbilu.com/javascript/js/VkiXuUcC.html)
 * [CORS跨域服务端无法写入浏览器Cookie问题](https://blog.csdn.net/a317560315/article/details/78397369)
-* [ajax跨域方案]()
 * [JSONP跨域原理与实现]()
 * [iframe跨域方案](https://segmentfault.com/a/1190000000702539)
 * [iframe跨域POST请求无刷新提交](http://www.cnblogs.com/onepixel/articles/7568856.html)
-* [JS跨域方案优缺点及应用场景](https://www.zhihu.com/question/41992168)
+* [各种跨域方案优缺点及应用场景](https://www.zhihu.com/question/41992168)
 
 ## 性能优化
 * [JS内存泄漏](https://jinlong.github.io/2016/05/01/4-Types-of-Memory-Leaks-in-JavaScript-and-How-to-Get-Rid-Of-Them/)
