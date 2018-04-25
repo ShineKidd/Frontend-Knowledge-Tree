@@ -83,8 +83,8 @@
 * [HTTP2.0对于HTTP1.x的优点](https://www.zhihu.com/question/34074946)
 
 ## WebSocket
-*	[WebSocket初始化wss连接握手失败问题分析]()
-*	[WebSocket初始化连接报400状态码问题分析]()
+*	[WebSocket初始化wss连接失败问题分析]()
+*	[WebSocket初始化返回400状态码问题分析]()
 
 ## NodeJS
 
@@ -92,7 +92,7 @@
 *	[哈希算法]()
 
 ## Web开发常见问题
-*	[IOS11系统微信WebView下弹出键盘遮挡输入框问题]()
+*	[IOS11系统微信WebView下弹出键盘遮挡输入框问题解决方案]()
 
 ## 实例
 
