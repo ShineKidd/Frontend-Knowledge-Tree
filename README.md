@@ -39,7 +39,7 @@
 * [JS垃圾回收机制]()
 * [页面重绘（Repaint）和重排（Reflow）]()
 * [域名收敛与域名发散](http://taobaofed.org/blog/2015/12/16/h5-performance-optimization-and-domain-convergence/)
-* [Web缓存机制](http://www.alloyteam.com/2012/03/web-cache-1-web-cache-overview/)
+* [缓存机制](http://www.alloyteam.com/2012/03/web-cache-1-web-cache-overview/)
 
 ## Webpack
 *	[Webpack工作原理小结](http://www.cnblogs.com/GeniusLyzh/p/8823749.html)
