@@ -75,10 +75,6 @@
 * [GET和POST请求区别]()
 * [HTTP2.0对于HTTP1.x的优点](https://www.zhihu.com/question/34074946)
 
-## WebSocket
-*	[WebSocket初始化wss连接失败问题分析]()
-*	[WebSocket初始化返回400状态码问题分析]()
-
 ## NodeJS
 
 ## 算法基础
