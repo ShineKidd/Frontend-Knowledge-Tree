@@ -5,11 +5,12 @@
 ## JS基础
 * [继承与原型链](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
 * [运行机制与事件循环](http://www.ruanyifeng.com/blog/2014/10/event-loop.html)
-* [理解闭包](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Closures)
-* [理解事件委托](https://zhuanlan.zhihu.com/p/26536815)
+* [闭包](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Closures)
+* [事件委托](https://zhuanlan.zhihu.com/p/26536815)
 * [函数柯里化](https://www.cnblogs.com/pigtail/p/3447660.html)
 * [函数式编程]()
-* [面向切面编程]()
+* [AOP]()
+* [函数节流]()
 
 ## CSS基础
 
@@ -22,7 +23,6 @@
 * [XSS攻击与防御](https://juejin.im/entry/58a598dc570c35006b5cd6b4)
 * [CSRF攻击与防御](https://www.cnblogs.com/hyddd/archive/2009/04/09/1432744.html)
 * [HTTP劫持原理](https://blog.csdn.net/wr410/article/details/25594273)
-* [HTTP劫持和DNS劫持](https://www.cnblogs.com/kenkofox/p/4919668.html)
 
 ## 跨域
 * [SSO原理及实现方案](https://cnodejs.org/topic/55f6e69904556da7553d20dd)
