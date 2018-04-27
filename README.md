@@ -12,8 +12,6 @@
 * [AOP]()
 * [函数节流]()
 
-## CSS基础
-
 ## HTML5基础
 * [viewport原理]()
 
@@ -44,14 +42,9 @@
 ## Webpack
 *	[Webpack工作原理小结](http://www.cnblogs.com/GeniusLyzh/p/8823749.html)
 
-## Chrome
-
-*	[Chrome防止混合内容策略](https://developers.google.com/web/fundamentals/security/prevent-mixed-content/fixing-mixed-content?hl=zh-cn)
-
 ## 文件上传
 *	[图片压缩方案]()
 * [图片上传方案]()
-* [获取图片原始大小]()
 
 ## Vue
 * [Vue私有样式scoped属性工作原理]()
@@ -62,20 +55,14 @@
 
 ## 模块化
 * [CommonJS、AMD、ES6模块化]()
-* [UMD]()
 
 ## ES
 *	[ES6模块系统静态分析机制]()
 
-## Git
-
 ## HTTP
 * [cookies详解](https://www.kancloud.cn/kancloud/http-cookies-explained/48333)
-* [URL格式规范]()
 * [GET和POST请求区别]()
 * [HTTP2.0对于HTTP1.x的优点](https://www.zhihu.com/question/34074946)
-
-## NodeJS
 
 ## 算法基础
 *	[哈希算法]()
