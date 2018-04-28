@@ -15,8 +15,6 @@
 ## HTML5基础
 * [viewport原理]()
 
-## 设计模式
-
 ## 安全
 * [XSS攻击与防御](https://juejin.im/entry/58a598dc570c35006b5cd6b4)
 * [CSRF攻击与防御](https://www.cnblogs.com/hyddd/archive/2009/04/09/1432744.html)
@@ -72,7 +70,6 @@
 * [微信WebView关闭后本地cookie无法清除问题](http://www.cnblogs.com/GeniusLyzh/p/8946383.html)
 
 ## 实例
-
 * [简单的列表排序例子](./example/simple-sortlist.html)
 * [仿微信图片预览插件](./example/vue-img-preview.html)
 
