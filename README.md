@@ -39,10 +39,6 @@
 ## Webpack
 *	[Webpack工作原理小结](http://www.cnblogs.com/GeniusLyzh/p/8823749.html)
 
-## 文件上传
-*	[图片压缩方案]()
-* [图片上传方案]()
-
 ## Vue
 * [Vue私有样式scoped属性工作原理]()
 * [Vue双向绑定实现原理](https://segmentfault.com/a/1190000006599500)
