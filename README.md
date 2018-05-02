@@ -8,9 +8,9 @@
 * [闭包](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Closures)
 * [事件委托](https://zhuanlan.zhihu.com/p/26536815)
 * [函数柯里化](https://www.cnblogs.com/pigtail/p/3447660.html)
-* [函数式编程]()
+* [函数式编程](http://taobaofed.org/blog/2017/03/16/javascript-functional-programing/)
 * [AOP](http://www.alloyteam.com/2013/08/yong-aop-gai-shan-javascript-dai-ma/#prettyPhoto)
-* [函数节流]()
+* [函数节流与去抖](https://www.cnblogs.com/fsjohnhuang/p/4147810.html)
 
 ## HTML5基础
 * [viewport原理]()
