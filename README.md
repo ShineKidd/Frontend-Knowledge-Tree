@@ -9,7 +9,7 @@
 * [事件委托](https://zhuanlan.zhihu.com/p/26536815)
 * [函数柯里化](https://www.cnblogs.com/pigtail/p/3447660.html)
 * [函数式编程]()
-* [AOP]()
+* [AOP](http://www.alloyteam.com/2013/08/yong-aop-gai-shan-javascript-dai-ma/#prettyPhoto)
 * [函数节流]()
 
 ## HTML5基础
