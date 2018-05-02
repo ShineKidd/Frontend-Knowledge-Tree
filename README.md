@@ -3,7 +3,7 @@
 > 收集和总结遇到过的一些前端知识、问题及解决方案
 
 ## JS基础
-* [继承与原型链](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
+* [原型与原型链](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
 * [运行机制与事件循环](http://www.ruanyifeng.com/blog/2014/10/event-loop.html)
 * [闭包](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Closures)
 * [事件委托](https://zhuanlan.zhihu.com/p/26536815)
@@ -53,7 +53,7 @@
 *	[ES6模块系统静态分析机制]()
 
 ## HTTP
-* [cookies详解](https://www.kancloud.cn/kancloud/http-cookies-explained/48333)
+* [Cookies详解](https://www.kancloud.cn/kancloud/http-cookies-explained/48333)
 * [GET和POST请求区别]()
 * [HTTP2.0对于HTTP1.x的优点](https://www.zhihu.com/question/34074946)
 
