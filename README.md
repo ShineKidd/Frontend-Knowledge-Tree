@@ -47,7 +47,7 @@
 * [CommonJS、AMD、ES6模块化]()
 
 ## ES
-*	[ES6模块系统静态分析机制]()
+*	[ES6模块机制]()
 
 ## HTTP
 * [HTTP Cookies](https://www.kancloud.cn/kancloud/http-cookies-explained/48333)
