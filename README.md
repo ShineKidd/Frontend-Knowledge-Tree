@@ -43,7 +43,7 @@
 
 ## Webpack
 
-## ECMAScript
+## ES6+
 *	[ES6模块机制](https://juejin.im/entry/5a879e28f265da4e82635152)
 * [CommonJS、AMD、ES6模块化]()
 
