@@ -50,16 +50,12 @@
 *	[ES6模块系统静态分析机制]()
 
 ## HTTP
-* [Cookies详解](https://www.kancloud.cn/kancloud/http-cookies-explained/48333)
+* [HTTP Cookies](https://www.kancloud.cn/kancloud/http-cookies-explained/48333)
 * [GET和POST请求区别]()
 * [HTTP2.0对于HTTP1.x的优点](https://www.zhihu.com/question/34074946)
 
 ## 算法基础
 *	[哈希算法]()
-
-## Web开发常见问题
-*	[IOS11系统微信WebView下弹出键盘遮挡输入框问题解决方案]()
-* [微信WebView关闭后本地cookie无法清除问题](http://www.cnblogs.com/GeniusLyzh/p/8946383.html)
 
 ## 实例
 * [简单的列表排序例子](./example/simple-sortlist.html)
