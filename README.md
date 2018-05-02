@@ -36,9 +36,6 @@
 * [域名收敛与发散](http://taobaofed.org/blog/2015/12/16/h5-performance-optimization-and-domain-convergence/)
 * [Web缓存机制](http://www.alloyteam.com/2012/03/web-cache-1-web-cache-overview/)
 
-## Webpack
-*	[Webpack工作原理小结](http://www.cnblogs.com/GeniusLyzh/p/8823749.html)
-
 ## Vue
 * [Vue私有样式scoped属性工作原理]()
 * [Vue双向绑定实现原理](https://segmentfault.com/a/1190000006599500)
